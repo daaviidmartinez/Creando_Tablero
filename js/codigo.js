@@ -5,12 +5,12 @@ var numero4=[1,2,3,4,5,6];
 var numero5=[1,2,3,4,5,6];
 var numero6=[1,2,3,4,5,6];
 
-var color1=["Blue","Red","Yellow","Blue","White","Pink"];
-var color2=["Blue","Red","Yellow","Blue","White","Pink"];
-var color3=["Blue","Red","Yellow","Blue","White","Pink"];
-var color4=["Blue","Red","Yellow","Blue","White","Pink"];
-var color5=["Blue","Red","Yellow","Blue","White","Pink"];
-var color6=["Blue","Red","Yellow","Blue","White","Pink"];
+var color1=["Blue","Red","Yellow","Green","White","Pink"];
+var color2=["Pink","Blue","Red","Yellow","Green","White"];
+var color3=["White","Pink","Blue","Red","Yellow","Green"];
+var color4=["Green","White","Pink","Blue","Red","Yellow"];
+var color5=["Yellow","Green","White","Pink","Blue","Red"];
+var color6=["Red","Yellow","Green","White","Pink","Blue"];
 
 var long1=numero1.length;
 var long2=numero2.length;
